@@ -7,3 +7,7 @@ Fragen (Stand Juni 2024): [Link zum Fragenkatalog](https://www.bundesnetzagentur
 ## Benutzung
 
 `index.html` in einem Webserver (e.g. Node `live-server` oder jeder andere static site server) hosten und öffnen.
+
+## Screenshots
+
+![Ansicht auf einem Mobiltelefon](https://github.com/julkali/afp/blob/master/afp_trainer_screenshot_mobile.png?raw=true)
